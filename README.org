@@ -1,4 +1,7 @@
 
 [[file:banner.png]]
 
-TODO: This! I intend to add screenshots and stuff, maybe...
+Emacs human and big [[https://nordtheme.com][Nord]] fan.
+
+| [[file:https://www.programmableweb.com/sites/default/files/github-icon.png]] | [[file:https://icons.iconarchive.com/icons/danleech/simple/64/reddit-icon.png]] |
+| [[https://userstyles.org/styles/191792/github-nord][Github Nord]]            | [[https://userstyles.org/styles/191799/reddit-nord][Reddit Nord]]               |
