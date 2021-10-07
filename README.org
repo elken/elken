@@ -1,4 +1,3 @@
-[[file:banner.png]]
 #+html: <img align="right" src="https://github-readme-stats.vercel.app/api?username=elken&show_icons=true&hide_border=true&theme=nord&count_private=true" />
 
 (Neo)vimmer and big [[https://nordtheme.com][Nord]] fan.
