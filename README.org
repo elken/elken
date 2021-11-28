@@ -1,6 +1,6 @@
 #+html: <img align="right" src="https://github-readme-stats.vercel.app/api?username=elken&show_icons=true&hide_border=true&theme=nord&count_private=true" />
 
-(Neo)vimmer and big [[https://nordtheme.com][Nord]] fan.
+Emacser and big [[https://nordtheme.com][Nord]] fan.
 
 | [[file:https://www.programmableweb.com/sites/default/files/github-icon.png]] | [[file:https://icons.iconarchive.com/icons/danleech/simple/64/reddit-icon.png]] |
 |-|-|
