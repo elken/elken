@@ -1,8 +1,9 @@
-#+html: <img src="https://github-readme-stats.vercel.app/api?username=elken&show_icons=true&hide_border=true&theme=nord&count_private=true" />
-
 Emacser and big [[https://nordtheme.com][Nord]] fan.
+
+
 
 | [[file:https://toppng.com/uploads/thumbnail/github-mark-logo-vector-11573976116oq3oau9n10.png]] | [[file:https://www.mcleodgaming.com/wp-content/uploads/2019/05/reddit_logo-150x150.png]] |
 |-|-|
 | [[https://userstyles.org/styles/191792/github-nord][Github Nord]]            | [[https://userstyles.org/styles/191799/reddit-nord][Reddit Nord]]              |
 
+#+html: <img src="https://github-readme-stats.vercel.app/api?username=elken&show_icons=true&hide_border=true&theme=nord&count_private=true" />
